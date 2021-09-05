@@ -1,0 +1,28 @@
+body
+{
+  background-color:  #89F8CE;
+  font-style: oblique;
+}
+
+h1
+{
+  color:#6E5773;
+  font-style: normal;
+}
+h2
+{
+  color:#6E5773;
+}
+hr{
+  border-style: none ;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 10%;
+  border-color: grey;
+
+}
+a
+{
+  font-style: normal;
+  
+}
